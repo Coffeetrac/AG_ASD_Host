@@ -6,4 +6,6 @@ Release 1.00
 
 Source: https://github.com/Coffeetrac/AG_ASD_Host/
 
+Video: https://youtu.be/obbyNXBeFzo
+
 ESP32 Addon for Arduino IDE: https://github.com/espressif/arduino-esp32/blob/master/docs/arduino-ide/windows.md
