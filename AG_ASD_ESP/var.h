@@ -1,5 +1,5 @@
  //loop time variables in microseconds
-  const unsigned int LOOP_TIME = 500; //00hz 
+  const unsigned int LOOP_TIME = 200; //5hz 
   unsigned int lastTime = LOOP_TIME;
   unsigned int currentTime = LOOP_TIME;
   unsigned int dT = 50000;
